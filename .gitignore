@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+snaity-medium/*
 /snaity-medium
 /snaity-medium/node_modules
 
