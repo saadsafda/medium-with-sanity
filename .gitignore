@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 
+/snaity-medium
 /snaity-medium/node_modules
+
 
 # testing
 /coverage
